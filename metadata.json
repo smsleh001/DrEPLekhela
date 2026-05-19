@@ -1,0 +1,6 @@
+{
+  "name": "Dr E.P Lekhela High School",
+  "description": "The official application portal for Dr E.P Lekhela High School, a public institution in Kimberley, South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
